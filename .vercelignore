@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+data/*.raw.txt
+node_modules
+dist
+.vercel
